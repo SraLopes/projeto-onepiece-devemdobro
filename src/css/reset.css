@@ -1,0 +1,8 @@
+*{
+    margin: 0; /* tira todas as margens*/
+    padding: 0;/*espaçamento interno dos elementos*/
+    box-sizing: border-box;
+}
+ul{
+   list-style: none; 
+}
